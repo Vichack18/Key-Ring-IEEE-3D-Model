@@ -1,0 +1,1 @@
+Hi! This is a Key Ring 3D Model in wich I ilustrated the IEEE Logo. IEEE it's an amazing community for Electronics & Electricals Engineering. I made this model in Autodesk Fusion 360 and I share with you a .STL file, so feel free to use it!
